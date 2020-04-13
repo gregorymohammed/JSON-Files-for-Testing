@@ -4,7 +4,7 @@
   "Liquid_Level_Alarm_1": 0,
   "Liquid_Level_Alarm_2": 0,
   "Tilt": 0,
-  "Heat On": 0,
-  "Water On": 1,
+  "Heat_On": 0,
+  "Water_On": 1,
   "Enclosure Alert": 0
 }
