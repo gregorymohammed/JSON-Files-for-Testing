@@ -1,8 +1,8 @@
 {
   "Temperature": 22.50046,
   "Voltage": 0.2,
-  "Liquid Level Alarm 1": 0,
-  "Liquid Level Alarm 2": 0,
+  "Liquid_Level_Alarm_1": 0,
+  "Liquid_Level_Alarm_2": 0,
   "Tilt": 0,
   "Heat On": 0,
   "Water On": 1,
